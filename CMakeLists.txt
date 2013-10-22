@@ -1,6 +1,0 @@
-
-project(cmake-echo)
- 
-message(STATUS "CMAKE_GENERATOR : ${CMAKE_GENERATOR}")
-message(STATUS "CMAKE_GENERATOR : ${CMAKE_GENERATOR}")
-message(STATUS "SYSTEM_NAME     : ${PROJECT_NAME}")
